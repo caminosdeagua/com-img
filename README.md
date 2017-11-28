@@ -16,3 +16,6 @@ mmm 	- month in letters in esp (ex ene or feb)
 yyyy 	- year in numbers (ex 1996 or 2008)
 
 TITLE 	- name of image
+
+To access or embed the images, simply use the URL:
+"https://caminosdeagua.github.io/com-img/img/dd-mmm-yyyy__TITLE"
