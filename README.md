@@ -6,7 +6,7 @@ Since GitHub does not have lots of storage capacity, we need
 to make sure to delete the folders every month or so. Every 
 file in the img folder should be named:
 
-dd-mmm-yyyy__TITLE
+dd-mmm-yyyy_TITLE.exn
 
 where:
 The date is the date to DELETE the image
@@ -16,6 +16,7 @@ mmm 	- month in letters in esp (ex ene or feb)
 yyyy 	- year in numbers (ex 1996 or 2008)
 
 TITLE 	- name of image
+exn     - file extension (ex jpg, png, etc.)
 
 To access or embed the images, simply use the URL:
-"https://caminosdeagua.github.io/com-img/img/dd-mmm-yyyy__TITLE"
+"https://caminosdeagua.github.io/com-img/img/dd-mmm-yyyy_TITLE.exn"
